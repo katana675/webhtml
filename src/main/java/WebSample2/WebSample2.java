@@ -40,6 +40,7 @@ public class WebSample2 extends HttpServlet {
 	    out.println("<h1>TOP画面です</h1>");
 	    out.println("</body>");
 	    out.println("</html>");
+//	   urlをかくにんする
 	}
 
 	/**
